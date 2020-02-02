@@ -10,6 +10,8 @@ public class ConflictsClass {
 		{
 			System.out.println("Print");
 			System.out.println("Message");
+			
+			System.out.println("New message");
 		}
 
 	}

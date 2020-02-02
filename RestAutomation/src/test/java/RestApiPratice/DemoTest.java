@@ -8,5 +8,6 @@ public class DemoTest {
 	public void demoRun()
 	{
 		System.out.println("Demo Runningg");
+		System.out.println("Hello");
 	}
 }

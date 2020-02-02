@@ -14,7 +14,7 @@ public class DemoTest {
 		System.out.println("Hellooo");
 	}
 	/*
-	 * Area of a circle
+	 * Area of a circl
 	 */
 	@Test
 	public void DemoTest_2()

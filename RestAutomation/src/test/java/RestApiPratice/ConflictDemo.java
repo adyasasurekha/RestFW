@@ -11,6 +11,8 @@ public class ConflictDemo {
 		
 		System.out.println("Its working fine");
 		
+		System.out.println("Its working fine");
+		
 
 //		System.out.println("hi");
 //		System.out.println("Why  Rejection");

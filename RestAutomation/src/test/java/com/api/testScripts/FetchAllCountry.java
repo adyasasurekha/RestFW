@@ -17,6 +17,7 @@ public class FetchAllCountry extends RootClass{
 		Response resp = config.executeRequest(apiData);
 		
 		resp.then().log().all();
+		System.out.println("Hi");
 		
 	}
 }
